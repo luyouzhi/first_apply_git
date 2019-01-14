@@ -8,4 +8,9 @@ goback master....
 create test 
 
 
+<<<<<<< HEAD
 update master
+=======
+
+update test
+>>>>>>> test
